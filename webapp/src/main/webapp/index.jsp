@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome Anmol !!! </h1>
+<h2> jenkins pipeline created war and jar file path through pipeline</h2>
+<h3> those path sucessfully deployed in tomcat server </h3>
